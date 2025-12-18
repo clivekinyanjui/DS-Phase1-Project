@@ -50,7 +50,7 @@ Comparing engine type with number of uninjured passenger after accident shows th
 
  Airplane makes with these engine types are recommended.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### Risk Score by Aircraft Make
 
