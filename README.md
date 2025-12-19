@@ -43,7 +43,7 @@ Data contained missing values and duplicates. Rows with missing values as well a
  * Aircraft damge (Minor, Substantial, Destroyed)
  * Injury Severity (Fatal, Non-Fatal,)
  * Total Fatal Injuries, Total Minor Injuries, Total Serious Injuries
-# Visualizations
+# Visualisations
 
 ### Number of uninjured passengers by Engine type
 Comparing engine type with number of uninjured passenger after accident shows that Reciprocating and Turbo Fan engines present the lowest passenger injury risk for commercial and private use.
