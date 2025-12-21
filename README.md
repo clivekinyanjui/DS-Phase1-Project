@@ -75,6 +75,11 @@ A list of recommended airplane makes was formulated by filterng the airplane mak
 The figure below ranks recommended makes from which the top 10 were selected.
 
 ![alt text](image-5.png)
+
+# Aircraft Risk Analysis Dashboard
+
+Access an interactive dashboard [here](https://public.tableau.com/views/AircraftRiskAnalysisDashboard_17663204532900/AircraftRiskAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for self-service discovery and real-time relationship testing.
+
 # Conclusion
 
 ### Analysis Summary
